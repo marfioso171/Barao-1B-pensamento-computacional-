@@ -3,5 +3,22 @@ body {
     background: rgb(243, 192, 229);
 }
 .capa {
- width: 80%
+ width: 30%
 }
+.beneficios{ 
+    text-align: left;  
+    background-color: aliceblue;
+}
+.podepah{
+    width: 40%;
+    margin-left: 300px;
+}
+ul{
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 200px
+}
+li{
+   padding:20px;
+}
+   
