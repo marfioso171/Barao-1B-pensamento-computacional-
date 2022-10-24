@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background: rgb(243, 192, 229);
+    background: linear-gradient(rgb(243, 192, 229),  aliceblue);
+    margin: 0 auto;
 }
 header {
     padding: 20px 0;
@@ -45,7 +46,6 @@ nav a:hover{
 }
 .beneficios{ 
     text-align: left;  
-    background-color: aliceblue;
 }
 .podepah{
     width: 40%;
