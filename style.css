@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+
+
+
 body {
+    font-family: 'Fasthand', cursive;
     text-align: center;
     background: linear-gradient(rgb(243, 192, 229),  aliceblue);
     margin: 0 auto;
